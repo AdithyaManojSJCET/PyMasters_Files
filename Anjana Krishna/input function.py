@@ -3,4 +3,4 @@
 # Program using input from user
 name=input("Enter your name:")
 age=int(input("Enter your age:"))
-print(f"Hi{name}!.You are{age}years of age")
+print(f"Hi{name}!.You are{age}years old")
