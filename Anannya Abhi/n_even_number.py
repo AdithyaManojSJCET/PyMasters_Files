@@ -4,6 +4,7 @@ Date: 13.11.24
 Python program to generate n even numbers
 '''
 limit=int(input("Enter value for n:"))
+print(f"{limit} even numbers are:")
 even_num=-2
 even_num1=2
 if limit>=0:
