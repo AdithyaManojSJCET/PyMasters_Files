@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 10.11.24
 Program to get value from user using input() and print it
 '''
