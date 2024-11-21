@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 20.11.24
 Python program to check if a number is prime number using for loop
 '''
