@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 20.11.24
 Python program to find even numbers from a list using for loop
 '''
