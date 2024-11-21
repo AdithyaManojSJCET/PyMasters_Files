@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 19.11.24
 Python program to get the frequency of elements in list
 '''
