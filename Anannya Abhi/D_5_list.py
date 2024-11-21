@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 16.11.24
 Python program to create list with numbers & to print first & last elements
 '''
