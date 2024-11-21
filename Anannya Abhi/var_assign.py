@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 10.11.24
 Program to assign variables with characters integers and decimal values
 '''
