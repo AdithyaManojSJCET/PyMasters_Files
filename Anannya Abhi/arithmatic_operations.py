@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 11.11.24
 Python program to perform arithmetic operations
 '''
