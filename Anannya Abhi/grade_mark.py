@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 12.11.24
 Python program to grade a student based on their marks
 '''
