@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 13.11.24
 Python program to create a calculator that operates with 2 numbers
 '''
