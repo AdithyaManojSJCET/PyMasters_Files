@@ -1,5 +1,5 @@
 '''
-Name: Anannnya Abhi
+Name: Anannya Abhi
 Date: 18.11.24
 Python program to find largest number in a list;to sort list in ascending order;count occurence of an element
 '''
