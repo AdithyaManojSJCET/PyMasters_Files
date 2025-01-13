@@ -1,6 +1,6 @@
 ''' Author Anjana Krishna
  Day 11Python Challenge
- Program with tupple 
+ Program with tuple 
  '''
  
 #To access 3rd element
