@@ -1,3 +1,5 @@
+'''Author Anjana Krishna
+   Program to find unique elements from a list'''
 
 original_list=[1,2,3,3,4]
 unique_element=[]
