@@ -1,0 +1,15 @@
+'''Author Anjana Krishna
+  Day 13 Python Challenge
+  Program with set
+  '''
+  #create a set 
+student_set={"Erick","Sam","Susan"}
+print(student_set)
+
+#add an element
+student_set.add("Monica")
+print(student_set)
+
+#remove an element
+student_set.remove("Erick")
+print(student_set)
